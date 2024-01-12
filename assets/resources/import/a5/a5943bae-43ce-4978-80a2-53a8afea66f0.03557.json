@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"UIFormInfo","#\t界面表\t\t\t\t\r\n#\tId\t\tAssetName\tModuleName\tUIGroupName\r\n#\tint\t\tstring\tstring\tstring\r\n#\tid\t策划备注\t界面预制体 界面脚本名\t模块\t层级  Default|Middle|Front|Top|TopTop\r\n\t1001\t\tTipsForm\tCommon\tTopTop\r\n\t1002\t\tConfirmForm\tCommon\tTopTop\r\n\t10001\t\tHomeForm\tHome\tDefault"]],0,0,[],[],[]]

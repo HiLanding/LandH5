@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"SoundInfo","#\t声音配置表\t\t\t\t\t\r\n#\tId\t\tAssetName\tVolume\tType\tLoop\r\n#\tint\t\tstring\tfloat\tint\tbool\r\n#\t声音编号\t策划备注\t资源名称\t音量(0~1)\t音效类型1.音乐 2.音效\t是否循环\r\n\t1\t通用按键音\tsound_click_button\t1\t2\tFALSE\r\n"]],0,0,[],[],[]]
